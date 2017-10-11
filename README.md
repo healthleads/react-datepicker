@@ -1,3 +1,5 @@
+# This is a fork of https://github.com/Hacker0x01/react-datepicker to address https://github.com/Hacker0x01/react-datepicker/issues/1049.  We expect to close the fork when a PR is accepted to address that issue.
+
 # React Date Picker
 
 [![npm version](https://badge.fury.io/js/react-datepicker.svg)](https://badge.fury.io/js/react-datepicker)
